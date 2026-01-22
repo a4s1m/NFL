@@ -199,7 +199,7 @@ The Pursuit Efficiency Index (PEI) provides a **comprehensive, interpretable eva
 ---
 
 ## Tools & Techniques
-- Python / R
+- Python 
 - Vector geometry
 - Linear & beta normalization
 - Time-series frame analysis
